@@ -1,5 +1,5 @@
 # How to run?
-`python main.py` 
+`python -m unittest`
 
 ## Requirements
 
